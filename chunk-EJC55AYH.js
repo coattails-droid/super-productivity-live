@@ -1,0 +1,1 @@
+import{c as e,f as t}from"./chunk-AKVFUHVZ.js";import{e as r,j as s}from"./chunk-W2MMT6XF.js";var n,a=r(()=>{t();n=class extends e{requestReview(){return s(this,null,function*(){})}}});a();export{n as StoreReviewWeb};

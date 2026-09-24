@@ -31,3 +31,7 @@ upstream repository.
   correctly on GitHub Pages.
 - The app registers an ngsw service worker for offline use; it is scoped to
   the `/super-productivity-live/` subpath.
+- The `google-calendar-provider` bundled plugin is **not** included in this
+  mirror: its build output embeds upstream's public Google OAuth client IDs,
+  which GitHub's secret-scanning push protection blocks. Everything else,
+  including the core app and all other bundled plugins, is included.

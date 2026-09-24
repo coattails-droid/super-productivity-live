@@ -1,0 +1,1 @@
+import{c as e,f as o}from"./chunk-AKVFUHVZ.js";import{e as n}from"./chunk-W2MMT6XF.js";var t,m=n(()=>{o();t=class extends e{beforeExit(i){throw this.unimplemented("Not implemented on web.")}finish(i){throw this.unimplemented("Not implemented on web.")}}});m();export{t as BackgroundTaskWeb};

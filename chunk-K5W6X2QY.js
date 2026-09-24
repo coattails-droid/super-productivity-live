@@ -1,0 +1,1 @@
+import{b as r,f as p}from"./chunk-AKVFUHVZ.js";import{e}from"./chunk-W2MMT6XF.js";var o=e(()=>{"use strict"});var m,h=e(()=>{"use strict";p();o();m=r("Share",{web:()=>import("./chunk-5J3ALCHA.js").then(t=>new t.ShareWeb)})});export{m as a,h as b};

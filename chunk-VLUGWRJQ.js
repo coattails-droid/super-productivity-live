@@ -1,0 +1,1 @@
+import{a as e,q as p}from"./chunk-VC6KHKD6.js";import{a as t,d as _}from"./chunk-S7GYQB42.js";import{e as n}from"./chunk-W2MMT6XF.js";var o,r=n(()=>{"use strict";o={}});var E,I=n(()=>{"use strict";r();E=N=>o[N]||void 0});var i,l,x,D,u=n(()=>{"use strict";I();p();_();i=E("ONEDRIVE_CLIENT_ID")||"",l=i||null,x=!!i,D=e||t});export{E as a,I as b,l as c,x as d,D as e,u as f};

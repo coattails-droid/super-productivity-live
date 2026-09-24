@@ -1,0 +1,1 @@
+import{a as r,b as c,j as t,l as n}from"./chunk-O2H46RH4.js";import{i as o,q as u}from"./chunk-VC6KHKD6.js";import{Od as e,ie as m}from"./chunk-GLZGF54H.js";import{e as i}from"./chunk-W2MMT6XF.js";var p,D,a=i(()=>{"use strict";m();c();n();u();p=e(()=>r==="mouseOnly"?!1:t()==="touch"),D=e(()=>p()?o:0)});export{p as a,D as b,a as c};

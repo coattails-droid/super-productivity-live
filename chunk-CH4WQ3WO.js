@@ -1,0 +1,1 @@
+import{Ca as o,ie as r}from"./chunk-GLZGF54H.js";import{e as t}from"./chunk-W2MMT6XF.js";var e,a,n=t(()=>{"use strict";r();e=navigator.platform.toUpperCase().indexOf("MAC")>=0,a=new o("IS_MAC",{providedIn:"root",factory:()=>e})});export{e as a,a as b,n as c};

@@ -1,0 +1,1 @@
+import{Ca as o,ie as _}from"./chunk-GLZGF54H.js";import{e as I}from"./chunk-W2MMT6XF.js";var n,D,d,r=I(()=>{"use strict";_();n=!!window.SUPAndroid,D=!!window.SUPFDroid,d=new o("IS_ANDROID_WEB_VIEW",{providedIn:"root",factory:()=>n})});export{n as a,D as b,d as c,r as d};

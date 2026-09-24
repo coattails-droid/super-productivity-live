@@ -1,0 +1,1 @@
+import{c as i,d as m}from"./chunk-AJQGJYTR.js";import{e as n}from"./chunk-W2MMT6XF.js";var a,c=n(()=>{"use strict";m();a=(e,o)=>{let[r,s]=e.split(":");if(!i(e))throw new Error("Invalid clock string");let t=new Date(o);return t.setSeconds(0,0),t.setHours(+r),t.setMinutes(+s),t.getTime()}});export{a,c as b};

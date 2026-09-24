@@ -1,0 +1,1 @@
+import{a as t,d as I}from"./chunk-SY2GJ2YX.js";import{a as o,f as _}from"./chunk-AKVFUHVZ.js";import{e as r}from"./chunk-W2MMT6XF.js";var e,p,A,a=r(()=>{"use strict";_();I();e=o.isNativePlatform()||t,p=o.getPlatform()==="ios",A=o.getPlatform()==="android"||t});export{e as a,p as b,A as c,a as d};

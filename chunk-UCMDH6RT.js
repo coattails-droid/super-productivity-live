@@ -1,0 +1,1 @@
+import{b as e,f as p}from"./chunk-AKVFUHVZ.js";import{e as r}from"./chunk-W2MMT6XF.js";var o=r(()=>{"use strict"});var i,s=r(()=>{p();o();i=e("Browser",{web:()=>import("./chunk-SDVSM4DI.js").then(t=>new t.BrowserWeb)})});s();export{i as Browser};
